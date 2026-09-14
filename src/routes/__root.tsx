@@ -11,6 +11,8 @@ import { useEffect, type ReactNode } from "react";
 
 import appCss from "../styles.css?url";
 import { reportLovableError } from "../lib/lovable-error-reporting";
+import song from "@/assets/song.mp3";
+import { useEffect, useRef } from "react";
 
 function NotFoundComponent() {
   return (
@@ -125,9 +127,28 @@ function RootShell({ children }: { children: ReactNode }) {
 function RootComponent() {
   const { queryClient } = Route.useRouteContext();
 
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+
+  useEffect(() => {
+    const playAudio = () => {
+      audioRef.current?.play().catch(() => {});
+    };
+
+    playAudio();
+    window.addEventListener("click", playAudio);
+
+    return () => {
+      window.removeEventListener("click", playAudio);
+    };
+  }, []);
+
   return (
     <QueryClientProvider client={queryClient}>
-      {/* Required: nested routes render here. Removing <Outlet /> breaks all child routes. */}
+      {/* 🔊 Background Music */}
+      <audio ref={audioRef} loop>
+        <source src={song} type="audio/mpeg" />
+      </audio>
+
       <Outlet />
     </QueryClientProvider>
   );
