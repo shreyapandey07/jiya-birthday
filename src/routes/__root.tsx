@@ -109,37 +109,13 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
 });
 
 function RootShell({ children }: { children: ReactNode }) {
-  const audioRef = useRef<HTMLAudioElement | null>(null);
-
-  useEffect(() => {
-    const playAudio = () => {
-      audioRef.current?.play().catch(() => {});
-    };
-
-    // try autoplay
-    playAudio();
-
-    // fallback after user interaction
-    window.addEventListener("click", playAudio);
-
-    return () => {
-      window.removeEventListener("click", playAudio);
-    };
-  }, []);
-
   return (
     <html lang="en">
       <head>
         <HeadContent />
       </head>
       <body>
-        {/* 🔊 Global Background Music */}
-        <audio ref={audioRef} loop>
-          <source src={song} type="audio/mpeg" />
-        </audio>
-
         {children}
-
         <Scripts />
       </body>
     </html>
