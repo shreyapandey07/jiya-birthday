@@ -24,7 +24,7 @@ function Us() {
     <PageShell current="/us">
       <p className="font-hand paper-card mt-8 flex items-center gap-4 rounded-2xl px-7 py-3 text-3xl text-ink">
         <Heart className="h-5 w-5" />
-        "The End, but never the end of us(hopefully). ❤️🌙"
+        "The End, but never the end of us. ❤️🌙"
       </p>
 
       <img

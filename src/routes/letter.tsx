@@ -49,16 +49,8 @@ the way I do.`}
         <article className="font-hand paper-card rounded-2xl p-9 text-3xl leading-relaxed text-ink">
           <p>"I fell for those pretty eyes"</p>
           <p className="mt-5">
-            Jahan Pe Jaana Tu Wahan Khamoshi Kare Shor
-Jahan Pe Jaanam Mein Wahan Afsurdah Ho Mizaaj
-Haan Tujhe Leke Hoon Main Zara Sa Insecure
-Kisi Ko Kaise Haasil Karne Doon Main Apna Khwaab
-          </p>
-          <p className="mt-5">
-            We Should Wait For The Win Girl
-Idhar Haar Jaana Theek Nahi
-And This Life Would Have Been Simpler
-Suni Jaati Jo Na Dil Ki
+            I hope your birthday this year is better (you catch all the highs and sell for all the lows) , you deserve to have everything this life.. There's just so much to say and express that I'll do when we meet. Thankyou so much for being this person that you are, i feel grateful to have crossed paths with you and grateful to have crossed paths with you and grateful to have known you you know me the best, you know when i need somebody to cheer me up & you do, you know how to make me smile on my darkest days.
+
           </p>
           <p className="mt-5">
             

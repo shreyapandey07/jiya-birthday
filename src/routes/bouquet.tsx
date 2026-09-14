@@ -23,9 +23,9 @@ function Bouquet() {
   return (
     <PageShell current="/bouquet">
         <h1 className="font-script text-center text-6xl text-ink md:text-7xl">
-      Every heartbeat has a reason.
+     What do I even call a person like that? 
       <span className="font-script block text-center text-3xl text-ink md:text-5xl">
-        Mine just happens to be you. ❤️
+        My Home ❤️
       </span>
     </h1>
           <div className="mt-10 grid w-full max-w-6xl grid-cols-2 items-center gap-8 md:grid-cols-3">

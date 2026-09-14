@@ -29,9 +29,9 @@ function Home() {
   return (
     <PageShell current="/">
       <div className="relative flex flex-col items-center">
-        <Bow className="absolute -top-14 left-1/2 h-20 w-20 -translate-x-1/2 md:h-32 md:w-32" />
-        <h1 className="font-script mt-8 text-center text-7xl leading-none text-ink md:text-[9rem]">
-          I love you
+        <Bow className="absolute -top-14 left-1/2 h-20 w-20 -translate-x-1/2 md:h-38 md:w-38" />
+        <h1 className="font-script mt-5 text-center text-5xl leading-none text-ink md:text-[5rem]">
+          Happy Birthday
         </h1>
       </div>
 
@@ -41,16 +41,16 @@ function Home() {
           src={photo(1)}
           alt="Us together"
           label="add your favourite photo"
-          className="h-[26rem] w-[22rem] md:h-[34rem] md:w-[28rem]"
+          className="h-[26rem] w-[22rem] md:h-[32rem] md:w-[28rem]"
           rotate={-2}
         />
-        <Teddy className="-ml-12 h-36 w-36 md:-ml-20 md:h-56 md:w-56" rotate={6} />
+        <Teddy className="-ml-12 h-40 w-40 md:-ml-20 md:h-60 md:w-60" rotate={6} />
       </div>
 
-      <p className="font-hand mt-10 flex items-center gap-4 text-4xl text-ink md:text-5xl">
-        <Heart className="h-5 w-5" />
+      <p className="font-hand mt-5 flex items-center gap-4 text-4xl text-ink md:text-4xl">
+        <Heart className="h-8 w-8" />
         To my one and only
-        <Heart className="h-5 w-5" />
+        <Heart className="h-8 w-8" />
       </p>
     </PageShell>
   );

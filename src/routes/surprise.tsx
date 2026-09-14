@@ -23,7 +23,8 @@ Maybe it was hidden in the conversations that lasted longer than planned.
 Maybe it was in the way you made ordinary moments feel extraordinary.
 Or maybe my heart had already chosen you long before I realized it.`,
 
-  `Every single day with you feels like a small festival — the kind with fairy lights, music and too much cake.`,
+  `We had our share of ups & downs, well a lot of them; but we never gave up on each other and I know how much i value this relationship, how much I appreciate you for everything that you've done for me!!
+`,
 
   `If my life were a sky,
 you'd be the star
@@ -51,10 +52,13 @@ I couldnt tell you !`,
     layout: "letter-center" as const,
     letter: [
       "To the person who annoys me the most but i still miss when not around!",
-      "I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you",
+      "I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you",
       "AND SOME FOR THE FUTURE (HAHA)",
-      " I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you",
-      "No grand gestures just HUNDREDS little reasons."
+      " I love you I love you I love you  I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you",
+      "No grand gestures just HUNDREDS little reasons.",
+      "1.hug. 2. kiss. 3. Your voice. 4. Your smile. 5. Your time. 6. Your love. 7. Your honesty. 8. Your understanding. 9. Your support. 10. Your patience. 11. Your loyalty. 12. Your attention. 13. Your affection. 14. Your presence. 15. Your encouragement. 16. Your reassurance. 17. Your respect. 18. Your trust. 19. Your tenderness. 20. Your warmth. 21. Your care. 22. Your compassion. 23. Your friendship. 24. Your advice. 25. Your comfort. 26. Your protection. 27. Your faith in me. 28. Your belief in us. 29. Your motivations. 30. Your compliments. 31. Your forgiveness. 32. Your open heart. 33. Your kindness. 34. Your thoughtfulness. 35. Your help. 36. Your listening ear. 37. Your guidance. 38. Your acceptance. 39. Your loyalty to me. 40. Your appreciation. 41. Your presence in the little moments. 42. Your words of affirmation. 43. Your gentle touch. 44. Your cuddles. 45. Your hugs when I need them most. 46. Your kisses just because. 47. Your laughter. 48.Your humour 49. Your positivity. 50. Your strength when I'm weak. 51. Your calm when I'm anxious. 52. Your steady hand. 53. Your shoulder to lean on. 54. Your motivation when I doubt myself. 55. Your celebrations of my wins. 56. Your patience with my flaws. 57.Your honesty even when it's hard. 58. Your vulnerability. 59. Your dreams. 60. Your goals. 61. Your communication. 62. Your loyalty no matter what. 63. Your reassurance when I overthink. 64. Your honesty about how you feel. 65. Your consistency. 66. Your commitment. 67. Your efforts. 68. Your surprises. 69. Your dedication. 70. Your calm in chaos. 71. Your motivation in tough times. 72. Your dedication to us. 73. Your willingness to grow. 74. Your respect for my boundaries. 75. Your belief in my potential.76. Your faithfulness. 77. Your teamwork. 78. Your understanding of my past. 79. Your excitement for our future. 80. Your loyalty to our relationship. 81. Your kindness to my family and friends. 82. Your inclusion in your world. 83. Your reassurance of our love. 84. Your effort to make me feel special. 85. Your comfort in silence. 86. Your trust in me. 87. Your thoughts of me when we're apart. 88. Your dreams for us. 89. Your respect in disagreements. 90. Your calm in my storms. 91. Your ability to make me laugh. 92. Your ability to make me feel safe. 93. Your love in all seasons. 94. Your reassurance in hard times. 95. Your strength when I break. 96. Your soft heart. 97. Your hard work for us. 98. Your time when I feel lonely. 99. Your love when I feel unlovable. ",
+      "100. You Always Completely "
+      
     ],
     note: [
       "coupon code : unlimited hugs  warranty : lifetime",
@@ -91,8 +95,7 @@ You have always been my favorite person.`,
   `You deserve patience, kindness, and a love that feels safe.
 I'm still learning how to give you all of that.`,
 
-  `Yours Babe 
-and you are mine betu`,
+  `Yours Truly`,
 ],
     note: "voucher: one day, your rules",
   },
