@@ -7,12 +7,11 @@ import {
   HeadContent,
   Scripts,
 } from "@tanstack/react-router";
-import { useEffect, type ReactNode } from "react";
+import { useEffect, useRef, type ReactNode } from "react";
 
 import appCss from "../styles.css?url";
 import { reportLovableError } from "../lib/lovable-error-reporting";
 import song from "@/assets/song.mp3";
-import { useEffect, useRef } from "react";
 
 function NotFoundComponent() {
   return (
@@ -145,9 +144,9 @@ function RootComponent() {
   return (
     <QueryClientProvider client={queryClient}>
       {/* 🔊 Background Music */}
-      <audio ref={audioRef} loop>
-        <source src={song} type="audio/mpeg" />
-      </audio>
+     <audio ref={audioRef} loop>
+  <source src="/song.mp3" type="audio/mpeg" />
+</audio>
 
       <Outlet />
     </QueryClientProvider>
